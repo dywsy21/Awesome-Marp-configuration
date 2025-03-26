@@ -1,22 +1,21 @@
-/* @theme am_blue */
+/* @theme am_orange */
 
 :root {
-  --color-code-bg: #e8f4f6;
-  --color-coverbg: #2c9cb1;
-  --color-few: #91a814;
+  --color-code-bg: #fff5ec;
+  --color-coverbg: #e67e22;
+  --color-few: #3498db;
   --color-footer: #8c8c8c;
-  --color-main: #041d22;
-  --color-much: #1482a8;
-  --color-navbar-bg: #d0e9ee;
-  --color-navbar-font: rgb(108, 95, 91);
-  --color-quote: rgba(254, 176, 98, 0.1);
+  --color-main: #332211;
+  --color-much: #d35400;
+  --color-navbar-bg: #fff0e0;
+  --color-navbar-font: rgb(100, 80, 60);
+  --color-quote: rgba(255, 200, 100, 0.1);
   --color-title: rgb(255, 255, 255);
-  --color-trans: #72bdcb;
+  --color-trans: #f39c12;
   --filter-b: brightness(30%) contrast(70%) grayscale(100%);
   --filter-c: brightness(0%) contrast(60%) grayscale(80%);
   --filter-e: brightness(0%) contrast(70%) grayscale(100%);
 }
-
 
 @charset "UTF-8";
 @import 'default';
